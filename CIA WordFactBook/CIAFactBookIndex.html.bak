@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>CIA --> THE WORLD FACTBOOK</title>
+	<head>
+	
+	<body>
+		<h1>THE WORLD FACTBOOK</h1>
+		
+		<a href="Lab2-1.html"><h3>Afganistan</h3></a>
+		
+		<a href="Lab2-2.html"><h3>Andorra</h3></a>
+				
+		<a href="Lab2-3.html"><h3>Angola</h3></a>
+		
+		<a href="Lab2-4.html"><h3>Anguilla</h3></a>
+		
+		<a href="Lab2-5.html"><h3>Ecuador</h3></a>
+		
+		<a href="Lab2-1.html"><h3>Singapore</h3></a>
+		
+		<a href="Lab2-2.html"><h3>Slovakia</h3></a>
+				
+		<a href="Lab2-3.html"><h3>Spain</h3></a>
+		
+		<a href="Lab2-4.html"><h3>Germany</h3></a>
+		
+		<a href="Lab2-5.html"><h3>France</h3></a>
+		
+		<a href="Lab2-1.html"><h3>Argentina</h3></a>
+		
+		<a href="Lab2-2.html"><h3>Japan</h3></a>
+				
+		
+		<img src="https://seidegrees.com/wp-content/themes/sei/images/about-edinburgh-header.jpg">
+	
+	</body>
+	
+</html>
