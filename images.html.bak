@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Lab 2 -- HEADINGS</title>
+	<head>
+	<body>
+	
+		<h1>This picture should look nice</h1>
+		
+		
+		
+		<img src ="https://raw.githubusercontent.com/siwells/set08101/master/resources/vmask.jpg"/>
+		
+		<p>
+		We can either use a link to an image from a website on the web, e.g. https://raw.githubusercontent.
+		com/siwells/set08101/master/resources/vmask.jpg as in the example above, or we can use
+		a local image file. If you do use a link to an image that is someone else’s site then this is often
+		considered bad form. You also have no control over what your link actually points to and the
+		image could be replaced with something else at any point. The best case scenario is that the image
+		link becomes broken.
+		</p>
+		
+		<img src="images/Timetable 2022-2023.png" />
+
+		
+	</body>
+	
+</html>

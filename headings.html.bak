@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Lab 2 -- HEADINGS</title>
+	<head>
+	<body>
+		<h1>These are the differnt headings (1)</h1>
+		
+		<h2>They are up to 6 (2)</h2>
+		
+		<h3>The higer the number, the smaller the text (3)</h3>
+		
+		<h4>Combinations of these make a huge differnce to the presentation (4)</h4>
+		
+		<h5>But this are only for headers , as there is another option for paragraphs (5)</h5>
+		
+		<h6>Hope this looks good at least, as I spent 5 minutes only writing these sentences
+		
+		
+		<p>
+			This is a paragraph not a header. If I want to copy sample text i should take it 
+			from any of these webpages: “greeking” or “lorem ipsum”. This is a example:
+			
+			Vivamus hendrerit sem quis orci dapibus porta. Nulla est sem, volutpat tincidunt ex id, aliquet tincidunt enim. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque cursus tortor ac purus tincidunt molestie. Quisque id euismod sem. Vestibulum venenatis, orci ut molestie congue, tellus magna auctor lectus, vitae aliquam sem purus ac ligula.
+			Sed vel magna aliquet risus eleifend mattis sed ac purus. Maecenas malesuada interdum rutrum. Praesent erat ante, ornare nec justo ac, vehicula scelerisque lacus. Sed eu orci sed ante bibendum eleifend. Phasellus at facilisis urna, nec aliquet massa. 
+			Mauris lobortis sit amet tellus sit amet maximus.
+
+			Aliquam malesuada ullamcorper arcu, id convallis leo convallis ut. Nulla quam tortor, tempus quis dapibus vel, congue non velit. 
+			Donec in neque rutrum, maximus sem eget, mollis quam. Curabitur in mi commodo, interdum eros id, semper nulla. Vivamus a risus tellus. Mauris feugiat augue a rhoncus rutrum. Sed vehicula tristique leo, et vulputate nulla pretium eget.
+			
+			Its in latin no idea why.
+	</body>
+	
+</html>
